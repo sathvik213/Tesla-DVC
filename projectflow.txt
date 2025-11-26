@@ -11,4 +11,5 @@
 
 8. I will be now focusing on logs and making data_ingestion.py betterly
 
+----so far structured the project so that i can easily add the 
 9. after point 8 i will focus on DVC 
