@@ -1,0 +1,14 @@
+1. create the repo and clone it for base with MIT license and .gitignore file
+2. create project flow text file for writing the poitns out
+3. define requirements.txt file for dependecies definition
+4. create a folder for dataset (https://www.kaggle.com/datasets/nalisha/tesla-ea-deliveries-and-production-data20152025/data)
+5. used uv to install requirements.txt libs and used 'uv pip check' to check for compatibility
+'uv add <package_name>' to add a library
+'uv tool run' or 'uvx <tool>' used to run a tool temporarily
+
+6. got to know best practise is uv sync first to ensure compatibility and then activate venv and then run
+7. setup ruff check for linting purposes.As an alternative to uv run, you can also run Ruff by activating the project's virtual environment (source .venv/bin/active on Linux and macOS, or .venv\Scripts\activate on Windows) and running ruff check directly.
+
+8. I will be now focusing on logs and making data_ingestion.py betterly
+
+9. after point 8 i will focus on DVC 

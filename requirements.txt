@@ -1,0 +1,8 @@
+uv
+mlflow
+ruff
+scikit-learn
+dvclive
+pandas
+fastapi
+dvc
