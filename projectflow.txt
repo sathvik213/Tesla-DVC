@@ -12,4 +12,5 @@
 8. I will be now focusing on logs and making data_ingestion.py betterly
 
 ----so far structured the project so that i can easily add the 
-9. after point 8 i will focus on DVC 
+9. after point 8 i will focus on DVC ,testing out on marimo notebook to plan for better steps 
+10. worked on ingestion module and rectifying some errors now, tried doing the removeing the try and except to dwell deep into errors, also done ruff checks
