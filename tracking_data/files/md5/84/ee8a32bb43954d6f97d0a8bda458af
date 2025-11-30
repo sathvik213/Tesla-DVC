@@ -1,0 +1,529 @@
+,Year,Month,Region,Model,Estimated_Deliveries,Production_Units,Avg_Price_USD,Battery_Capacity_kWh,Range_km,CO2_Saved_tons,Source_Type,Charging_Stations
+198,2016,12,North America,Model Y,8664,9913,77263.73,120,683,887.63,Interpolated (Month),7084
+80,2023,12,Asia,Model S,5649,6211,64983.67,120,685,580.43,Estimated (Region),5372
+1024,2024,4,North America,Model Y,3880,4172,68982.44,75,448,260.74,Interpolated (Month),8566
+2064,2025,10,Middle East,Model X,8887,10011,85859.93,60,353,470.57,Official (Quarter),5152
+4,2016,12,Middle East,Model Y,12374,13537,114846.78,120,661,1226.88,Estimated (Region),8722
+2166,2023,12,Middle East,Model 3,9203,10426,101084.08,60,334,461.07,Interpolated (Month),9789
+2347,2025,3,Europe,Model Y,10934,11208,118491.97,82,466,764.29,Interpolated (Month),4283
+1073,2016,2,Middle East,Model X,5427,6240,53374.84,82,491,399.7,Official (Quarter),7882
+721,2025,7,Middle East,Model S,17474,19836,68258.46,120,712,1866.22,Interpolated (Month),10730
+1679,2024,7,Asia,Model Y,13962,15770,72613.05,75,429,898.45,Estimated (Region),7980
+469,2020,7,North America,Model X,2130,2389,110700.65,100,583,186.27,Interpolated (Month),3563
+909,2016,4,North America,Cybertruck,10136,10238,106024.96,82,460,699.38,Official (Quarter),9480
+695,2016,4,Europe,Model X,5161,5521,54209.96,100,578,447.46,Official (Quarter),14491
+18,2017,1,Europe,Model S,6472,6810,57769.87,100,590,572.77,Estimated (Region),14372
+1946,2025,12,North America,Model S,9880,11062,58904.29,120,683,1012.21,Interpolated (Month),6257
+81,2015,12,Asia,Model Y,5719,6486,66096.82,82,459,393.75,Official (Quarter),3373
+2220,2025,4,Asia,Model Y,9751,10553,50245.76,100,552,807.38,Interpolated (Month),5410
+1323,2023,3,Asia,Model X,6987,7810,76386.5,82,455,476.86,Interpolated (Month),10605
+2039,2021,12,Europe,Model Y,1560,1781,58845.91,120,718,168.01,Interpolated (Month),5767
+1822,2015,2,North America,Cybertruck,8629,9849,72624.21,82,472,610.93,Interpolated (Month),11436
+196,2019,2,Asia,Model S,9546,10021,99056.59,60,352,504.03,Estimated (Region),14152
+9,2021,3,Middle East,Model Y,7790,8208,50591.6,82,485,566.72,Interpolated (Month),3383
+2205,2018,6,Europe,Model S,128,143,116537.3,82,451,8.66,Official (Quarter),14790
+354,2017,9,Asia,Model S,11877,11996,56644.26,75,449,799.92,Estimated (Region),6919
+1568,2024,2,Middle East,Model S,12160,12876,109600.71,75,446,813.5,Official (Quarter),9076
+1900,2024,7,Middle East,Model 3,9197,10062,89633.02,75,435,600.1,Interpolated (Month),9591
+1634,2017,4,Europe,Cybertruck,16044,16841,109852.11,60,336,808.62,Official (Quarter),3853
+218,2025,8,Europe,Model S,1129,1160,108825.31,60,333,56.39,Estimated (Region),5579
+1170,2025,10,North America,Cybertruck,9273,9297,52349.14,82,470,653.75,Official (Quarter),6578
+289,2020,3,North America,Cybertruck,14135,15310,113114.19,75,447,947.75,Interpolated (Month),3109
+2065,2015,1,Europe,Cybertruck,2161,2465,112637.91,120,695,225.28,Estimated (Region),14062
+1344,2018,10,Europe,Model S,10672,11272,93493.14,120,703,1125.36,Official (Quarter),4327
+1050,2022,9,Asia,Model 3,1940,2079,84919.57,75,420,122.22,Official (Quarter),6262
+137,2021,12,Asia,Cybertruck,10989,12120,108894.97,120,684,1127.47,Interpolated (Month),12214
+423,2017,7,North America,Model X,7576,8078,95452.56,82,489,555.7,Interpolated (Month),3768
+1023,2018,4,Asia,Model X,6486,6577,108206.28,75,446,433.91,Estimated (Region),10797
+1201,2023,10,Middle East,Cybertruck,5341,5892,119018.2,60,353,282.81,Estimated (Region),14303
+1083,2017,10,Asia,Cybertruck,9752,10159,105880.52,60,339,495.89,Official (Quarter),6592
+679,2019,11,Asia,Model S,12742,13960,106127.81,120,687,1313.06,Interpolated (Month),7339
+1306,2017,12,Asia,Model X,12561,12677,56465.24,75,418,787.57,Interpolated (Month),10142
+524,2016,2,Middle East,Cybertruck,11687,12260,96731.54,60,354,620.58,Estimated (Region),12147
+1319,2018,2,Middle East,Model X,7551,7813,110788.67,82,488,552.73,Interpolated (Month),8035
+92,2024,3,North America,Model X,8283,8391,70066.15,75,441,547.92,Interpolated (Month),4819
+164,2020,8,North America,Cybertruck,5817,6517,67287.58,60,356,310.63,Interpolated (Month),13929
+77,2021,10,Middle East,Model X,11128,11881,78561.41,60,350,584.22,Official (Quarter),5998
+1538,2024,6,Asia,Model X,16936,19459,59209.95,60,331,840.87,Estimated (Region),11332
+1063,2019,12,Asia,Model X,14386,15722,96444.32,100,591,1275.32,Interpolated (Month),5585
+2224,2024,6,Europe,Cybertruck,9170,9703,62992.28,120,707,972.48,Interpolated (Month),7992
+2303,2018,7,Asia,Model Y,16516,18763,119407.29,75,420,1040.51,Official (Quarter),7265
+1951,2018,9,Middle East,Cybertruck,9574,10701,63699.88,100,591,848.74,Interpolated (Month),10784
+2196,2019,1,Middle East,Model X,13208,14709,69734.28,60,339,671.63,Estimated (Region),14095
+574,2022,12,Middle East,Model S,15440,16476,104263.35,100,576,1334.02,Official (Quarter),6800
+1122,2024,4,Europe,Model X,9738,9893,74190.66,120,668,975.75,Estimated (Region),10632
+1004,2017,5,North America,Model 3,3987,4294,85622.34,120,682,407.87,Official (Quarter),14195
+1738,2015,12,North America,Cybertruck,9618,10530,115241.97,60,333,480.42,Official (Quarter),14246
+1774,2018,9,Middle East,Model Y,9274,10196,91675.65,100,570,792.93,Interpolated (Month),8066
+1705,2022,3,Europe,Cybertruck,6899,7132,92851.11,60,342,353.92,Estimated (Region),3852
+111,2020,2,North America,Model 3,11404,11966,72021.13,100,575,983.59,Interpolated (Month),14288
+1844,2023,2,Europe,Model S,8847,10049,104884.32,120,697,924.95,Estimated (Region),6780
+2185,2022,12,North America,Model Y,14239,15200,72759.3,75,430,918.42,Interpolated (Month),12824
+2035,2019,5,Europe,Model 3,7617,8126,100891.3,120,701,800.93,Interpolated (Month),14848
+1418,2025,10,Middle East,Cybertruck,10175,11339,61799.84,75,436,665.44,Estimated (Region),4027
+183,2021,3,Asia,Model 3,7552,8187,56653.96,75,420,475.78,Official (Quarter),7961
+2557,2023,8,North America,Model X,8590,9691,82995.77,82,486,626.21,Estimated (Region),6498
+875,2018,5,Europe,Model Y,16359,17254,94867.59,82,470,1153.31,Official (Quarter),5279
+1098,2016,10,Europe,Model S,16842,18849,52426.92,120,694,1753.25,Estimated (Region),14945
+2427,2022,7,North America,Model X,9618,10791,116824.64,100,596,859.85,Official (Quarter),13911
+1556,2023,6,North America,Cybertruck,6650,7220,112601.2,75,430,428.92,Estimated (Region),14341
+552,2015,3,Europe,Model Y,10232,11578,101853.8,100,584,896.32,Official (Quarter),11429
+178,2023,11,Asia,Cybertruck,8624,9706,67412.03,60,342,442.41,Official (Quarter),11015
+182,2020,5,Europe,Model S,10841,12455,78552.6,60,338,549.64,Estimated (Region),9694
+750,2022,1,Asia,Model X,12858,14363,102880.61,120,696,1342.38,Official (Quarter),10521
+1320,2025,4,Middle East,Model S,6995,7039,97176.11,75,432,453.28,Interpolated (Month),8329
+1190,2017,6,North America,Cybertruck,16693,18316,68718.14,120,660,1652.61,Interpolated (Month),14580
+747,2016,3,North America,Model Y,1386,1511,96774.9,100,580,120.58,Estimated (Region),8561
+60,2022,12,Europe,Cybertruck,8171,9073,60650.35,82,488,598.12,Official (Quarter),13713
+1001,2019,9,North America,Model Y,1329,1472,91036.48,75,430,85.72,Estimated (Region),5307
+2470,2024,1,North America,Model S,12668,14186,59337.2,100,555,1054.61,Estimated (Region),14065
+2383,2020,6,North America,Model S,12434,12801,64947.62,100,583,1087.35,Interpolated (Month),7860
+879,2020,1,Middle East,Model 3,12862,12915,67265.95,100,572,1103.56,Estimated (Region),10542
+2402,2017,8,Europe,Model X,7497,8021,55298.98,60,341,383.47,Official (Quarter),12642
+2087,2017,10,Europe,Model X,9182,9225,79633.46,120,665,915.9,Interpolated (Month),10282
+589,2025,1,Middle East,Model X,11734,12840,62085.96,60,337,593.15,Interpolated (Month),8616
+919,2021,2,Asia,Model X,10288,11101,59878.83,60,330,509.26,Estimated (Region),12721
+744,2019,5,Middle East,Model X,12584,13581,82708.27,60,333,628.57,Interpolated (Month),10794
+1953,2015,7,Asia,Model X,6558,6620,119297.22,100,566,556.77,Official (Quarter),12718
+1238,2019,2,Europe,Model S,14215,15529,52823.37,82,464,989.36,Estimated (Region),8622
+1429,2015,10,North America,Model 3,13930,14805,76819.7,120,691,1443.84,Estimated (Region),3563
+1488,2020,8,North America,Model 3,9209,10291,77636.51,120,698,964.18,Interpolated (Month),4807
+1647,2017,5,Middle East,Model Y,8560,9524,57096.1,100,563,722.89,Estimated (Region),6315
+2057,2020,4,North America,Model X,8284,9287,98501.49,100,577,716.98,Estimated (Region),11394
+771,2023,1,Middle East,Model S,7039,7539,77416.66,60,357,376.94,Interpolated (Month),4507
+2279,2015,6,Middle East,Cybertruck,14478,15062,76409.89,75,413,896.91,Official (Quarter),6864
+55,2018,7,North America,Model S,7131,8189,97902.0,82,489,523.06,Official (Quarter),4710
+520,2019,11,Middle East,Cybertruck,10931,11121,117908.18,82,451,739.48,Estimated (Region),12632
+2444,2017,7,Europe,Model Y,5659,6096,87488.77,60,340,288.61,Official (Quarter),7245
+1868,2017,12,Middle East,Model Y,7884,8392,108166.44,60,333,393.81,Estimated (Region),11819
+614,2024,1,Middle East,Model S,14286,14699,93916.29,100,598,1281.45,Estimated (Region),8572
+2175,2017,12,Middle East,Model X,16989,17788,98373.91,82,462,1177.34,Estimated (Region),5287
+304,2015,11,Middle East,Model Y,13281,14670,97609.85,82,476,948.26,Interpolated (Month),12032
+56,2025,3,Asia,Model X,11956,13742,58158.12,120,710,1273.31,Estimated (Region),8997
+922,2021,1,Asia,Model Y,14376,16294,80830.42,82,487,1050.17,Estimated (Region),12008
+1169,2021,5,Middle East,Model X,9058,10053,98011.34,82,485,658.97,Interpolated (Month),5999
+2530,2019,1,North America,Model S,10197,10593,53697.87,82,480,734.18,Estimated (Region),4455
+884,2019,5,North America,Cybertruck,5490,5540,99109.57,75,412,339.28,Official (Quarter),7910
+2522,2019,4,Middle East,Model Y,4063,4144,116731.5,120,664,404.67,Official (Quarter),5389
+1180,2020,7,Asia,Model S,10661,12155,108446.97,60,355,567.7,Interpolated (Month),6638
+864,2020,11,Middle East,Model Y,7457,7607,95132.97,75,425,475.38,Official (Quarter),11495
+2600,2020,5,Middle East,Model X,4010,4210,72152.81,120,706,424.66,Official (Quarter),3624
+2288,2019,2,Asia,Model 3,10886,11220,105859.86,60,352,574.78,Interpolated (Month),3765
+819,2020,4,Europe,Model S,14810,16490,105589.42,75,431,957.47,Official (Quarter),13736
+2110,2015,7,Asia,Model Y,8461,8784,97705.19,100,588,746.26,Official (Quarter),10147
+814,2023,1,Europe,Model S,12892,13400,52502.39,82,479,926.29,Interpolated (Month),8905
+590,2024,9,Middle East,Model X,4042,4146,100376.47,100,580,351.65,Estimated (Region),11156
+1977,2022,3,Europe,Model X,607,672,64315.3,75,425,38.7,Official (Quarter),8638
+59,2025,5,North America,Model X,11008,11674,110366.63,75,419,691.85,Estimated (Region),9530
+2420,2025,3,Europe,Model S,13639,15599,80450.83,75,435,889.94,Official (Quarter),10995
+74,2022,10,Middle East,Model 3,8455,9204,85264.14,60,349,442.62,Estimated (Region),14674
+2501,2025,9,Middle East,Model S,7781,8045,81911.78,75,448,522.88,Interpolated (Month),13205
+1890,2022,8,Middle East,Model 3,8498,9114,85073.32,60,339,432.12,Official (Quarter),4585
+710,2022,8,Europe,Model Y,1388,1438,77895.14,60,330,68.71,Interpolated (Month),12269
+157,2016,9,North America,Model X,10096,11560,79243.27,100,599,907.13,Official (Quarter),11015
+1598,2023,2,North America,Model X,7483,8068,62046.99,75,423,474.8,Interpolated (Month),6857
+2186,2017,6,Middle East,Model S,11053,11464,65008.45,75,422,699.65,Official (Quarter),5970
+1381,2017,3,North America,Model S,9296,9376,117045.29,75,447,623.3,Official (Quarter),12422
+422,2018,5,North America,Model 3,14549,16062,99042.8,82,481,1049.71,Official (Quarter),13474
+1248,2021,9,Middle East,Model Y,9048,9299,95617.59,75,439,595.81,Interpolated (Month),11256
+247,2023,11,Europe,Model 3,10577,12068,88815.88,100,580,920.2,Official (Quarter),14723
+459,2022,10,Asia,Cybertruck,8838,9805,106771.08,120,711,942.57,Official (Quarter),14899
+2580,2017,12,North America,Model X,7720,8424,69673.48,82,458,530.36,Interpolated (Month),7557
+2389,2025,9,Europe,Model X,6319,6848,110295.39,60,354,335.54,Estimated (Region),6384
+1254,2022,12,Europe,Model Y,8901,9137,51996.4,75,446,595.48,Estimated (Region),3098
+2460,2025,9,Europe,Model S,3139,3160,88476.88,120,688,323.94,Interpolated (Month),14134
+1671,2024,1,Europe,Model S,15476,16004,63954.51,100,571,1325.52,Interpolated (Month),12065
+1644,2017,4,Asia,Model Y,11278,11278,79159.61,100,576,974.42,Official (Quarter),3655
+1824,2025,2,North America,Model S,10862,11148,76032.72,60,330,537.67,Official (Quarter),4644
+2165,2019,6,Europe,Model S,14287,16241,80739.15,75,413,885.08,Interpolated (Month),7347
+180,2023,8,Europe,Model X,11623,11690,102745.27,60,345,601.49,Interpolated (Month),7423
+376,2025,6,Middle East,Cybertruck,14633,14680,101705.69,100,597,1310.39,Official (Quarter),13347
+2579,2025,3,Europe,Cybertruck,18467,19834,111179.86,82,487,1349.01,Estimated (Region),3131
+2191,2021,6,Europe,Model Y,2784,2834,99246.98,60,349,145.74,Interpolated (Month),7487
+258,2022,7,North America,Model S,8707,9829,67937.84,82,466,608.62,Estimated (Region),13455
+2492,2020,6,Europe,Model 3,4355,4949,94372.26,75,415,271.1,Estimated (Region),13908
+1593,2019,10,Middle East,Model X,6086,6530,73383.19,60,333,304.0,Estimated (Region),5866
+1006,2023,2,Europe,Model X,10361,10389,88192.59,82,479,744.44,Estimated (Region),12484
+2302,2015,3,Asia,Model S,12060,13504,95497.48,82,479,866.51,Official (Quarter),12549
+1377,2023,12,Europe,Cybertruck,11128,12108,72255.75,100,577,963.13,Official (Quarter),11768
+821,2024,3,Europe,Model 3,13755,14448,70602.52,75,445,918.15,Official (Quarter),12563
+959,2024,10,North America,Cybertruck,15430,15790,105296.38,120,663,1534.51,Estimated (Region),5328
+2080,2018,8,Europe,Model Y,14958,14989,95456.52,100,583,1308.08,Official (Quarter),12583
+2180,2024,5,North America,Model X,13980,15377,110956.73,100,593,1243.52,Interpolated (Month),9947
+1415,2020,6,Europe,Model Y,5248,5703,117058.55,75,431,339.28,Estimated (Region),3994
+2565,2019,6,Middle East,Model 3,14598,14636,53430.33,100,578,1265.65,Official (Quarter),12833
+2221,2025,4,Asia,Model X,11382,12375,110681.15,82,490,836.58,Official (Quarter),11104
+482,2023,5,Asia,Model X,10595,11246,119356.09,82,470,746.95,Estimated (Region),9646
+221,2025,4,Middle East,Model Y,10058,11457,78513.44,75,449,677.41,Estimated (Region),9950
+2112,2018,11,Asia,Model Y,11974,12019,98303.28,100,565,1014.8,Estimated (Region),3668
+1879,2025,6,Asia,Model Y,7667,7939,98554.44,60,359,412.87,Interpolated (Month),14547
+2089,2019,1,Europe,Model X,6901,7866,114585.16,120,690,714.25,Interpolated (Month),6934
+1997,2015,12,Middle East,Model S,15775,17830,104361.78,82,482,1140.53,Interpolated (Month),13137
+7,2020,6,Europe,Cybertruck,8410,9192,73815.61,100,592,746.81,Official (Quarter),8216
+481,2017,2,Middle East,Model Y,10693,11944,82059.7,75,427,684.89,Official (Quarter),6634
+990,2015,8,Asia,Model X,17528,18643,101551.1,100,596,1567.0,Interpolated (Month),14106
+547,2019,3,Asia,Cybertruck,2030,2114,117121.03,82,456,138.85,Estimated (Region),9957
+1771,2019,6,North America,Model Y,6143,6913,118210.75,75,449,413.73,Interpolated (Month),3783
+749,2021,1,Asia,Model S,6231,7073,77803.08,60,337,314.98,Interpolated (Month),8380
+2393,2024,3,North America,Model S,3907,4416,80241.74,82,484,283.65,Estimated (Region),6160
+1398,2020,3,Europe,Cybertruck,5479,6104,99911.0,60,340,279.43,Estimated (Region),3635
+639,2016,2,Middle East,Model Y,11285,12244,101691.44,82,487,824.37,Estimated (Region),7849
+246,2016,3,Europe,Cybertruck,9749,10459,67974.36,82,462,675.61,Interpolated (Month),6687
+588,2025,5,Europe,Model X,5490,5625,53816.58,75,424,349.16,Estimated (Region),8539
+1587,2022,9,Europe,Model 3,14414,16505,80705.88,82,467,1009.7,Interpolated (Month),13158
+949,2021,6,Middle East,Cybertruck,5982,6153,78518.37,75,447,401.09,Interpolated (Month),7527
+1133,2018,10,Asia,Model Y,6961,7396,76380.68,100,593,619.18,Official (Quarter),13863
+1363,2021,2,Middle East,Model S,10922,11681,91960.14,82,458,750.34,Official (Quarter),11899
+2473,2020,5,Asia,Model 3,11711,13448,53832.15,82,465,816.84,Estimated (Region),8782
+2275,2023,3,Asia,Cybertruck,8116,8848,92442.19,75,426,518.61,Estimated (Region),13853
+2591,2020,10,Asia,Model S,9818,10354,94757.05,60,333,490.41,Interpolated (Month),8163
+2540,2015,11,North America,Model S,10329,11783,105914.83,82,491,760.73,Interpolated (Month),7208
+1203,2020,2,Asia,Model 3,16816,19209,68763.3,60,354,892.93,Estimated (Region),3664
+2379,2020,11,Middle East,Model S,6085,6176,71674.23,60,349,318.55,Estimated (Region),10989
+579,2019,11,Asia,Cybertruck,13482,13757,108525.52,75,418,845.32,Official (Quarter),6614
+235,2021,6,North America,Cybertruck,3639,4038,66952.84,75,418,228.17,Estimated (Region),9358
+1105,2020,12,North America,Model Y,8596,9674,95555.18,100,580,747.85,Estimated (Region),7009
+1526,2018,11,Middle East,Model Y,4439,4549,114154.24,100,566,376.87,Official (Quarter),7464
+1558,2020,12,Asia,Model S,12576,13358,72885.95,60,348,656.47,Estimated (Region),14165
+1945,2023,10,Middle East,Model S,8179,9103,80751.23,75,440,539.81,Estimated (Region),5457
+1150,2018,9,Asia,Model X,14872,15681,111549.57,60,351,783.01,Interpolated (Month),4351
+776,2018,2,North America,Model X,3942,4239,101204.05,120,717,423.96,Official (Quarter),5645
+2306,2018,6,Asia,Model Y,7543,7633,80928.36,100,558,631.35,Official (Quarter),5213
+1884,2015,11,Asia,Model Y,8449,9279,88560.02,120,665,842.79,Estimated (Region),7901
+1043,2024,11,North America,Model X,9466,9638,50426.13,82,471,668.77,Estimated (Region),14979
+522,2017,10,Middle East,Cybertruck,2856,2917,93679.89,100,563,241.19,Estimated (Region),8854
+2377,2020,1,Middle East,Model Y,9318,10366,98538.06,120,719,1004.95,Official (Quarter),6334
+1754,2017,5,Asia,Model Y,12468,14162,50850.97,100,583,1090.33,Official (Quarter),3622
+2219,2021,1,North America,Model S,10139,10942,106742.27,60,352,535.34,Estimated (Region),10965
+2210,2025,10,Europe,Model Y,8720,9521,98179.93,100,575,752.1,Official (Quarter),8707
+1779,2025,11,North America,Model 3,10859,12067,84958.32,120,688,1120.65,Interpolated (Month),4320
+2430,2025,5,Middle East,Cybertruck,9413,10180,56933.95,82,464,655.14,Official (Quarter),3615
+484,2015,8,Europe,Cybertruck,5021,5368,116309.83,75,418,314.82,Official (Quarter),10034
+2202,2016,9,Asia,Model X,11133,11512,108592.88,100,563,940.18,Estimated (Region),10714
+1342,2024,9,Middle East,Model Y,4620,5094,65088.03,82,468,324.32,Official (Quarter),5258
+631,2019,9,Asia,Model Y,7202,7646,66402.75,100,550,594.16,Estimated (Region),13552
+501,2017,9,Europe,Cybertruck,8946,10154,119731.04,100,591,793.06,Estimated (Region),13138
+2212,2023,9,North America,Model X,15098,15229,115038.14,82,460,1041.76,Interpolated (Month),14996
+209,2018,8,North America,Model 3,9870,10128,83015.46,100,554,820.2,Interpolated (Month),10508
+753,2023,3,Asia,Model 3,13511,14683,98246.08,60,333,674.87,Interpolated (Month),12853
+2451,2016,9,North America,Model S,8660,8899,112579.28,100,582,756.02,Interpolated (Month),4825
+556,2022,8,Europe,Cybertruck,9876,10129,53073.32,100,582,862.17,Interpolated (Month),12287
+2488,2017,12,Europe,Cybertruck,8177,8522,117435.22,60,330,404.76,Estimated (Region),11592
+1778,2024,2,Asia,Model Y,11792,12800,102953.44,82,455,804.8,Official (Quarter),13060
+2464,2022,4,Middle East,Cybertruck,5774,6197,81518.56,60,335,290.14,Interpolated (Month),6691
+54,2015,4,Asia,Model Y,7633,8492,102818.0,82,455,520.95,Estimated (Region),13830
+1183,2020,9,Middle East,Model 3,8400,9527,118043.74,60,355,447.3,Interpolated (Month),4320
+155,2020,7,Middle East,Model Y,9358,9414,118902.54,120,683,958.73,Interpolated (Month),4826
+2300,2019,10,Europe,Model Y,10554,11418,56263.12,100,570,902.37,Official (Quarter),13239
+2548,2022,1,Middle East,Model Y,4543,4659,96732.12,75,435,296.43,Official (Quarter),10722
+300,2025,5,Europe,Cybertruck,6127,6482,113632.87,60,359,329.94,Estimated (Region),5083
+240,2016,10,Middle East,Model 3,8763,9817,90043.41,75,431,566.53,Estimated (Region),6521
+2286,2016,2,Europe,Model Y,12910,12986,58547.69,60,343,664.22,Interpolated (Month),14206
+1839,2025,7,North America,Model X,4649,5037,116982.19,75,445,310.32,Estimated (Region),7854
+336,2017,9,Asia,Cybertruck,12488,13915,52725.66,120,710,1329.97,Official (Quarter),10434
+254,2016,3,North America,Model X,6034,6249,76127.63,60,336,304.11,Estimated (Region),3878
+1888,2018,4,Asia,Model Y,8487,8618,78141.91,82,480,611.06,Estimated (Region),12357
+1825,2015,8,North America,Cybertruck,13321,13388,89892.28,60,352,703.35,Interpolated (Month),13521
+1260,2024,2,Europe,Model S,12899,13977,90373.26,100,558,1079.65,Official (Quarter),7832
+2093,2020,10,Middle East,Model 3,12790,13152,90144.42,100,560,1074.36,Interpolated (Month),13339
+1838,2024,10,Middle East,Model S,14285,15878,86964.09,100,570,1221.37,Official (Quarter),6225
+2206,2017,7,Middle East,Model 3,7161,7274,65565.29,100,575,617.64,Estimated (Region),10293
+1600,2022,11,Europe,Model Y,12567,12749,92448.68,100,572,1078.25,Interpolated (Month),14261
+323,2018,6,North America,Model 3,10312,10533,60601.19,75,428,662.03,Estimated (Region),10148
+1854,2024,2,North America,Model 3,7238,7918,73545.81,75,437,474.45,Interpolated (Month),3385
+2516,2015,5,Middle East,Model S,11967,13068,79277.01,100,596,1069.85,Estimated (Region),13392
+1271,2022,6,Asia,Model 3,12159,12521,85588.42,100,557,1015.88,Interpolated (Month),11051
+1881,2016,6,Europe,Cybertruck,2134,2172,63822.93,120,713,228.23,Interpolated (Month),10749
+2133,2017,12,Asia,Model Y,9237,9445,117765.35,100,572,792.53,Interpolated (Month),9018
+1856,2017,10,Europe,Model S,13415,14397,78132.1,60,334,672.09,Official (Quarter),9871
+72,2018,8,Asia,Cybertruck,6880,7303,64678.32,120,718,740.98,Interpolated (Month),10747
+706,2020,4,Asia,Model S,11089,11641,102110.95,75,418,695.28,Interpolated (Month),4563
+792,2016,3,Middle East,Model X,7228,7951,56687.47,120,697,755.69,Interpolated (Month),8421
+1519,2022,8,North America,Model X,11368,12014,73819.25,60,348,593.41,Estimated (Region),13691
+1936,2015,7,Europe,Model S,12251,12593,69956.66,82,458,841.64,Estimated (Region),13761
+346,2017,6,North America,Model 3,6303,6678,68499.34,60,336,317.67,Interpolated (Month),8796
+1347,2023,7,North America,Model X,9697,10023,63662.22,82,457,664.73,Interpolated (Month),12325
+2512,2021,12,Middle East,Model Y,8528,9359,73030.4,120,683,873.69,Official (Quarter),6145
+1596,2021,10,Europe,Model 3,6769,7697,56372.54,60,349,354.36,Interpolated (Month),7958
+668,2018,11,Europe,Cybertruck,7886,8591,107006.87,100,569,673.07,Estimated (Region),4587
+2014,2024,8,Europe,Model S,18033,18341,74337.02,60,352,952.14,Official (Quarter),10295
+2013,2015,2,Asia,Model Y,10274,11717,59626.47,75,425,654.97,Interpolated (Month),4361
+1075,2020,2,Europe,Model 3,10803,12231,86063.46,60,353,572.02,Interpolated (Month),9745
+1052,2016,8,North America,Model S,9094,9464,103157.88,120,686,935.77,Official (Quarter),12320
+2615,2018,2,Europe,Model X,10561,11898,83881.44,75,431,682.77,Interpolated (Month),6701
+1184,2020,6,North America,Model X,15404,15772,117761.55,100,595,1374.81,Official (Quarter),5003
+212,2020,12,North America,Model 3,15569,16988,78329.41,100,561,1310.13,Estimated (Region),6085
+288,2018,10,Europe,Model X,8207,9267,110622.5,120,660,812.49,Estimated (Region),12336
+141,2024,8,Middle East,Model 3,4293,4899,91215.62,100,565,363.83,Official (Quarter),8396
+1632,2019,9,North America,Model S,3820,4316,96848.78,120,686,393.08,Interpolated (Month),8854
+1751,2018,7,Europe,Model 3,13262,13406,69642.06,60,340,676.36,Interpolated (Month),12389
+1171,2021,6,Asia,Model 3,6712,7512,62687.52,82,480,483.26,Interpolated (Month),7619
+125,2021,7,Europe,Model S,1889,1946,81630.83,120,707,200.33,Estimated (Region),10085
+535,2025,4,North America,Model 3,9260,10611,112519.71,100,567,787.56,Estimated (Region),14978
+891,2019,9,North America,Cybertruck,3533,4017,73478.48,60,358,189.72,Interpolated (Month),9396
+136,2017,9,Middle East,Model S,15315,16609,93722.98,120,711,1633.34,Official (Quarter),10043
+794,2021,11,Asia,Model 3,9950,10746,60068.41,75,412,614.91,Estimated (Region),12697
+1219,2016,1,Asia,Model S,8718,9994,73582.71,75,419,547.93,Interpolated (Month),12476
+2468,2017,9,North America,Model 3,6860,7053,55388.02,75,438,450.7,Estimated (Region),7593
+293,2024,10,Europe,Model S,9425,10352,109844.8,82,461,651.74,Interpolated (Month),6926
+2556,2015,4,North America,Cybertruck,8239,8701,93810.19,82,471,582.09,Estimated (Region),13277
+2380,2025,12,Europe,Model S,11374,11433,82811.35,60,341,581.78,Official (Quarter),4642
+2135,2020,1,Europe,Model S,16543,17897,75159.67,75,415,1029.8,Estimated (Region),5320
+2203,2021,4,Middle East,Model 3,8550,8715,82792.29,120,695,891.34,Estimated (Region),3371
+643,2023,9,Middle East,Model Y,16368,18329,116163.28,82,475,1166.22,Interpolated (Month),6055
+2605,2020,4,Europe,Model X,3764,3814,110549.65,82,464,261.97,Interpolated (Month),5139
+355,2019,3,North America,Model 3,11351,12709,110505.64,60,343,584.01,Interpolated (Month),8701
+1354,2024,9,North America,Model X,9727,10872,83984.71,60,340,496.08,Interpolated (Month),3988
+2187,2023,10,Europe,Cybertruck,4070,4344,95267.09,100,597,364.47,Official (Quarter),12534
+2156,2021,6,North America,Model X,7939,8893,92306.65,60,335,398.93,Official (Quarter),8937
+774,2022,8,Middle East,Model S,11018,11192,96536.54,100,564,932.12,Official (Quarter),5387
+1973,2023,5,North America,Model 3,2375,2638,99415.56,100,576,205.2,Estimated (Region),11146
+1562,2025,7,Europe,Cybertruck,10000,11022,73732.0,75,433,649.5,Estimated (Region),8368
+2178,2015,4,Middle East,Model S,10084,11453,56390.07,100,565,854.62,Estimated (Region),14400
+996,2025,9,Middle East,Model Y,12555,13111,51497.22,60,358,674.2,Official (Quarter),5036
+2197,2021,7,Asia,Model 3,8967,9082,62842.05,60,352,473.46,Interpolated (Month),3263
+2514,2022,4,Middle East,Model X,9731,9758,57037.13,60,344,502.12,Official (Quarter),11279
+389,2023,8,Europe,Cybertruck,7527,8034,88063.37,100,555,626.62,Interpolated (Month),14185
+329,2024,6,Asia,Model 3,6370,7253,107838.04,75,425,406.09,Interpolated (Month),6269
+1823,2020,2,Middle East,Model S,10184,11135,50703.29,60,335,511.75,Estimated (Region),8895
+1066,2022,1,Europe,Cybertruck,7779,8724,98279.11,75,439,512.25,Official (Quarter),11377
+37,2019,8,Asia,Model Y,15165,16539,94101.31,60,342,777.96,Interpolated (Month),4731
+2189,2022,8,North America,Model 3,15396,17005,91077.43,120,709,1637.36,Interpolated (Month),3867
+2004,2015,6,Middle East,Model X,792,796,67670.59,75,439,52.15,Interpolated (Month),13742
+2469,2015,1,North America,Model 3,9446,9528,110632.33,75,435,616.35,Estimated (Region),11496
+2384,2025,7,Europe,Model 3,16165,17476,114908.59,60,357,865.64,Interpolated (Month),9152
+36,2023,3,Europe,Model S,17330,18767,67727.18,82,490,1273.75,Estimated (Region),3343
+2620,2024,9,North America,Cybertruck,9132,9780,117802.97,60,353,483.54,Estimated (Region),13778
+1463,2023,8,Asia,Model Y,14192,14464,71868.41,120,690,1468.87,Interpolated (Month),10065
+1386,2018,1,Middle East,Model S,11796,12081,95948.67,100,598,1058.1,Estimated (Region),9746
+2208,2016,9,Middle East,Model X,6101,6994,57750.44,60,342,312.98,Estimated (Region),3504
+334,2017,3,Europe,Model Y,9278,10038,80297.12,60,331,460.65,Interpolated (Month),4988
+319,2024,1,Asia,Model Y,7061,7806,68208.12,82,489,517.92,Estimated (Region),9361
+983,2024,4,Europe,Model 3,13127,14901,56291.48,60,333,655.69,Official (Quarter),8946
+1325,2018,2,North America,Model Y,11286,12786,115401.29,82,488,826.14,Estimated (Region),10624
+543,2016,10,Middle East,Model Y,8723,9386,111195.58,75,431,563.94,Interpolated (Month),11427
+233,2021,8,Asia,Model X,9136,9679,102048.1,82,474,649.57,Estimated (Region),7657
+2137,2022,8,Europe,Model X,5100,5665,77782.16,75,422,322.83,Official (Quarter),7505
+216,2019,7,Middle East,Model Y,9124,9987,80109.99,120,686,938.86,Interpolated (Month),6724
+1215,2021,12,Middle East,Model S,9961,10021,58603.78,75,420,627.54,Interpolated (Month),7823
+1095,2020,11,Asia,Model Y,1504,1572,62726.59,120,665,150.02,Official (Quarter),11569
+607,2022,4,North America,Model Y,5516,6061,78125.56,75,446,369.02,Official (Quarter),10655
+2239,2016,6,Middle East,Model 3,13013,14255,103278.51,120,669,1305.85,Interpolated (Month),8538
+1719,2021,12,Asia,Model Y,7131,7266,83363.43,82,482,515.57,Official (Quarter),6099
+585,2018,10,Asia,Model X,6871,6941,63098.7,100,577,594.69,Estimated (Region),6496
+2534,2018,5,North America,Cybertruck,9784,10643,87896.21,60,332,487.24,Interpolated (Month),3684
+257,2019,6,Asia,Model Y,8909,9045,113778.44,82,484,646.79,Official (Quarter),12120
+2113,2018,11,Europe,Model Y,9189,9621,94495.17,120,681,938.66,Official (Quarter),4782
+619,2019,9,Asia,Cybertruck,9669,10159,50496.43,82,478,693.27,Official (Quarter),12905
+809,2023,8,North America,Model S,10325,10679,58513.6,82,465,720.17,Official (Quarter),6065
+1409,2018,2,Europe,Model S,16810,18654,107713.01,100,557,1404.48,Official (Quarter),12995
+1744,2023,6,Middle East,Cybertruck,7500,8072,112147.27,120,701,788.62,Official (Quarter),7735
+2058,2015,12,North America,Model Y,10185,11376,57488.64,75,441,673.74,Official (Quarter),9495
+50,2024,9,Asia,Model X,8409,8777,103557.81,100,588,741.67,Official (Quarter),6509
+653,2018,6,Asia,Cybertruck,8089,8151,77845.54,75,431,522.95,Interpolated (Month),8799
+800,2019,5,Asia,Model S,7384,7641,84440.12,100,565,625.79,Official (Quarter),5181
+286,2025,4,Europe,Model S,13977,14330,100949.91,82,458,960.22,Estimated (Region),9137
+1387,2024,9,Middle East,Model S,11173,11333,76804.15,60,358,599.99,Interpolated (Month),10074
+374,2016,8,Europe,Model X,14658,16528,89285.6,120,691,1519.3,Estimated (Region),4377
+366,2021,1,Europe,Model Y,6006,6528,113282.45,120,679,611.71,Estimated (Region),11043
+228,2015,9,Middle East,Model Y,10783,11226,88792.46,82,477,771.52,Estimated (Region),12956
+189,2022,2,Middle East,Model X,8449,9164,58017.3,120,719,911.22,Estimated (Region),8106
+2569,2019,3,Middle East,Model 3,10442,10571,60816.46,60,343,537.24,Estimated (Region),9125
+2549,2016,8,Asia,Model 3,13615,13742,85875.19,100,590,1204.93,Estimated (Region),8510
+1394,2020,10,Europe,Model X,8875,9062,93578.46,75,420,559.12,Official (Quarter),9048
+1529,2024,3,Europe,Model Y,14419,16473,106394.58,120,682,1475.06,Official (Quarter),12464
+1192,2017,12,North America,Cybertruck,7076,7794,89604.71,60,357,378.92,Interpolated (Month),7647
+1412,2017,2,Asia,Model Y,9235,10569,86332.26,100,583,807.6,Interpolated (Month),6742
+1636,2016,9,Middle East,Cybertruck,10761,11978,106343.47,120,661,1066.95,Interpolated (Month),14553
+817,2017,2,Asia,Model 3,5991,6294,51352.93,75,417,374.74,Estimated (Region),7963
+416,2018,6,Middle East,Model 3,16782,18992,89051.16,75,448,1127.75,Interpolated (Month),3584
+2076,2020,2,North America,Cybertruck,9917,10003,68359.2,120,686,1020.46,Estimated (Region),4882
+628,2016,9,Middle East,Model 3,9469,10122,110519.45,60,346,491.44,Estimated (Region),7564
+2500,2020,8,Asia,Cybertruck,9144,10132,114279.95,82,467,640.54,Official (Quarter),5295
+1517,2025,5,Europe,Model Y,7394,7616,104198.24,75,439,486.89,Interpolated (Month),10619
+1392,2017,6,Asia,Model X,9474,9841,80408.23,120,703,999.03,Estimated (Region),3108
+1866,2017,8,Middle East,Model Y,16799,19039,90516.47,82,476,1199.45,Interpolated (Month),4877
+2006,2017,10,Asia,Model Y,7013,7295,57068.47,60,335,352.4,Estimated (Region),4767
+1102,2024,10,Asia,Model X,4300,4787,81593.52,75,448,288.96,Estimated (Region),6129
+1283,2021,9,Middle East,Model S,13107,14700,59452.67,60,344,676.32,Estimated (Region),14262
+515,2023,7,North America,Cybertruck,8712,9269,92433.55,75,433,565.84,Interpolated (Month),10816
+1297,2025,12,Europe,Model Y,5817,6426,81936.8,100,576,502.59,Estimated (Region),4756
+1370,2015,2,Europe,Model Y,9861,11318,66943.87,100,583,862.34,Official (Quarter),12139
+563,2016,7,North America,Model 3,10058,11503,75755.85,120,679,1024.41,Official (Quarter),4786
+200,2021,4,Asia,Model X,8454,8914,94870.42,82,487,617.56,Interpolated (Month),4967
+2509,2019,12,North America,Model Y,8103,9221,95517.85,60,332,403.53,Interpolated (Month),14374
+1633,2022,11,Asia,Model 3,8418,8979,119965.36,60,355,448.26,Estimated (Region),13721
+479,2016,5,Asia,Model X,9938,10101,88357.16,60,343,511.31,Estimated (Region),13132
+853,2023,11,Middle East,Model X,10530,10951,80810.09,75,442,698.14,Interpolated (Month),10316
+1749,2024,11,Middle East,Cybertruck,11790,12054,90612.35,60,349,617.21,Interpolated (Month),11653
+2398,2021,1,Europe,Model S,16493,17525,101147.53,100,576,1425.0,Official (Quarter),3890
+303,2018,5,Europe,Model X,11900,12449,92954.65,120,713,1272.7,Interpolated (Month),12719
+138,2024,11,Europe,Model X,6741,7454,97614.94,75,423,427.72,Interpolated (Month),6963
+1506,2019,1,Europe,Model 3,17693,18854,69372.79,60,346,918.27,Interpolated (Month),7164
+2161,2025,12,Asia,Model X,13671,15308,67998.03,60,348,713.63,Estimated (Region),8520
+1736,2015,6,Asia,Model X,7878,8087,56209.18,75,417,492.77,Official (Quarter),8529
+2431,2023,2,Middle East,Cybertruck,4924,5240,56906.02,75,435,321.29,Interpolated (Month),4724
+188,2023,12,Asia,Cybertruck,11905,12981,90535.08,100,561,1001.81,Official (Quarter),3560
+2134,2015,5,Asia,Model S,13489,13580,69667.42,120,717,1450.74,Interpolated (Month),13683
+506,2015,10,Middle East,Cybertruck,10786,11162,51708.05,75,445,719.97,Official (Quarter),3255
+2118,2025,11,Europe,Model Y,8475,9309,95766.33,75,416,528.84,Interpolated (Month),6826
+2405,2024,2,Middle East,Cybertruck,10257,11190,89536.89,120,711,1093.91,Estimated (Region),12859
+1338,2025,2,Asia,Model 3,17456,19595,107746.29,120,674,1764.8,Interpolated (Month),6883
+330,2016,1,Middle East,Cybertruck,11583,13270,62668.39,120,711,1235.33,Estimated (Region),8907
+1733,2023,6,North America,Model Y,4167,4394,117160.77,82,469,293.15,Interpolated (Month),12061
+2073,2018,11,North America,Cybertruck,8468,8695,77455.25,120,716,909.46,Interpolated (Month),4694
+32,2020,9,Middle East,Model S,9326,10117,100029.16,100,596,833.74,Official (Quarter),13947
+510,2020,8,Middle East,Model 3,12638,14358,58573.7,120,692,1311.82,Estimated (Region),13553
+508,2024,4,Europe,Model Y,15319,17286,58222.35,60,350,804.25,Official (Quarter),7906
+1018,2017,1,Asia,Model 3,11109,11947,81454.48,75,434,723.2,Official (Quarter),10497
+1669,2016,9,North America,Model 3,8385,8938,93070.86,100,554,696.79,Interpolated (Month),13588
+799,2018,1,Middle East,Model 3,8629,9169,58145.09,120,696,900.87,Official (Quarter),14261
+2335,2015,7,Europe,Model X,6676,7646,110585.5,100,590,590.83,Estimated (Region),6094
+2386,2015,9,North America,Model S,8924,9038,119781.2,120,690,923.63,Official (Quarter),10144
+2493,2020,11,North America,Model S,11189,11741,52954.03,60,344,577.35,Interpolated (Month),9533
+458,2024,12,North America,Model 3,9134,9485,57062.22,82,475,650.8,Estimated (Region),11158
+1391,2022,8,Asia,Cybertruck,13977,14076,76982.93,75,418,876.36,Estimated (Region),11344
+2562,2018,3,North America,Model Y,11880,12049,81504.1,60,340,605.88,Interpolated (Month),13448
+1957,2018,2,Middle East,Model Y,2362,2372,90827.67,75,412,145.97,Interpolated (Month),12448
+860,2023,6,North America,Model 3,9176,10500,95752.21,82,485,667.55,Official (Quarter),9302
+2584,2021,8,Europe,Model S,14448,16151,82371.98,100,597,1293.82,Estimated (Region),8836
+1428,2016,12,Europe,Model Y,121,139,111622.03,100,581,10.55,Official (Quarter),9832
+1532,2016,8,Europe,Model S,7883,8117,89573.12,82,470,555.75,Interpolated (Month),14664
+1805,2021,7,Middle East,Model X,9834,9938,63255.26,120,706,1041.42,Official (Quarter),13097
+1894,2024,10,Asia,Model 3,11301,11831,90191.34,120,690,1169.65,Official (Quarter),8874
+1648,2025,3,Europe,Model X,10895,11081,55876.62,100,566,924.99,Official (Quarter),6730
+2331,2017,5,Europe,Cybertruck,8571,8637,85335.69,75,439,564.4,Interpolated (Month),13351
+1234,2023,11,Asia,Model 3,5019,5386,115879.82,100,561,422.35,Estimated (Region),7675
+1002,2016,8,Europe,Model 3,3539,3599,60587.28,120,673,357.26,Official (Quarter),6011
+2399,2021,1,North America,Model Y,1385,1505,100007.13,75,446,92.66,Interpolated (Month),11465
+2195,2024,5,Europe,Cybertruck,8761,8977,52950.53,75,429,563.77,Interpolated (Month),12614
+1236,2021,6,Asia,Model X,15411,17636,58865.91,120,685,1583.48,Estimated (Region),8771
+1296,2024,12,Middle East,Cybertruck,12805,13581,97484.54,75,441,847.05,Official (Quarter),14903
+1767,2020,3,Europe,Model 3,19103,19643,106347.68,75,448,1283.72,Interpolated (Month),6223
+338,2023,3,Europe,Model 3,7479,7943,66291.12,82,471,528.39,Official (Quarter),13469
+2068,2017,12,Europe,Model Y,13476,15390,111939.86,60,352,711.53,Official (Quarter),6329
+555,2018,3,North America,Model 3,11772,12433,88490.8,75,414,731.04,Official (Quarter),8113
+167,2025,1,Europe,Model Y,13291,14566,62104.57,100,584,1164.29,Official (Quarter),8126
+674,2024,9,North America,Model S,10739,12336,118825.12,75,436,702.33,Estimated (Region),8314
+1635,2015,8,Middle East,Model 3,13292,13982,74286.72,120,704,1403.64,Interpolated (Month),8426
+45,2018,12,North America,Cybertruck,8427,9430,115869.46,82,476,601.69,Estimated (Region),11899
+126,2019,7,Middle East,Cybertruck,13064,14557,115532.36,100,597,1169.88,Interpolated (Month),5097
+194,2024,10,Europe,Cybertruck,11346,11431,77762.62,60,341,580.35,Official (Quarter),6417
+576,2020,5,Middle East,Model S,6380,6473,86877.2,60,331,316.77,Estimated (Region),4326
+534,2017,3,North America,Model X,4959,5104,59856.21,82,476,354.07,Interpolated (Month),12375
+1427,2018,10,Europe,Cybertruck,9910,10710,119449.49,75,444,660.01,Estimated (Region),4168
+1790,2017,10,North America,Model 3,7977,8575,98361.88,60,350,418.79,Interpolated (Month),10783
+2487,2021,2,Middle East,Cybertruck,10591,11638,93729.05,75,423,672.0,Estimated (Region),7536
+215,2021,1,North America,Cybertruck,6006,6007,58411.15,75,432,389.19,Interpolated (Month),11101
+129,2020,1,Asia,Model S,16393,16411,86274.4,75,413,1015.55,Interpolated (Month),9830
+1809,2024,11,Europe,Model 3,5924,6117,59568.66,60,346,307.46,Estimated (Region),10264
+150,2017,12,Europe,Model X,12980,14796,68584.75,82,476,926.77,Official (Quarter),11141
+2356,2017,4,Europe,Model 3,17905,19292,103114.34,120,676,1815.57,Official (Quarter),7236
+507,2015,12,Europe,Cybertruck,9736,10358,81597.09,60,334,487.77,Official (Quarter),12537
+352,2025,7,North America,Cybertruck,5648,6470,100906.96,60,340,288.05,Interpolated (Month),4114
+214,2018,8,Europe,Model 3,18499,19682,93079.45,82,454,1259.78,Estimated (Region),4053
+161,2015,10,Europe,Model Y,12831,14369,98628.75,60,338,650.53,Official (Quarter),10082
+781,2023,1,Europe,Cybertruck,9902,10828,82222.5,60,331,491.63,Estimated (Region),3173
+1385,2018,1,North America,Model S,4526,4637,58160.82,60,346,234.9,Estimated (Region),13828
+2434,2022,3,Asia,Cybertruck,1738,1822,83295.85,82,475,123.83,Official (Quarter),14831
+2524,2016,8,Asia,Model X,7416,7599,73115.05,100,587,652.98,Estimated (Region),9232
+927,2022,3,Middle East,Model Y,3025,3377,88655.56,100,583,264.54,Official (Quarter),6874
+1591,2015,2,North America,Model X,7191,7436,79897.55,75,443,477.84,Estimated (Region),13328
+35,2015,3,Middle East,Model 3,1899,2125,68958.26,60,343,97.7,Estimated (Region),3941
+926,2023,12,Middle East,Model X,10739,11242,62476.32,82,486,782.87,Interpolated (Month),7842
+640,2019,6,Europe,Model Y,8596,9054,97775.82,60,349,450.0,Official (Quarter),11583
+1803,2017,7,Asia,Model X,11469,12633,108653.59,100,592,1018.45,Estimated (Region),11980
+617,2025,11,North America,Model Y,11488,12841,58543.76,60,335,577.27,Estimated (Region),5538
+1091,2022,11,Asia,Cybertruck,5997,6294,68885.72,75,431,387.71,Official (Quarter),8281
+2461,2019,10,Asia,Model Y,10998,11172,85429.79,100,590,973.32,Estimated (Region),14233
+1045,2023,2,North America,Model S,9190,10059,71085.8,75,413,569.32,Official (Quarter),13663
+2619,2019,12,North America,Cybertruck,6711,7115,53585.7,82,471,474.13,Estimated (Region),4479
+897,2024,7,Europe,Model S,2561,2848,89562.13,60,343,131.76,Estimated (Region),6711
+2346,2016,4,North America,Model 3,4520,4991,78302.31,82,468,317.3,Interpolated (Month),11611
+1614,2018,12,Europe,Model X,6229,6403,102455.86,60,346,323.29,Estimated (Region),5448
+1047,2025,9,Europe,Model 3,6508,6909,67035.88,75,417,407.08,Estimated (Region),13288
+442,2019,8,North America,Model Y,8798,9658,78363.8,75,434,572.75,Official (Quarter),4289
+1625,2015,10,Middle East,Model S,14212,16049,109118.46,100,565,1204.47,Official (Quarter),12946
+1873,2020,5,North America,Model S,9483,9811,70383.75,75,441,627.3,Official (Quarter),3906
+790,2025,8,Europe,Model Y,11152,11731,104207.9,75,422,705.92,Estimated (Region),6943
+890,2019,4,Europe,Model X,12794,14038,85776.57,60,343,658.25,Interpolated (Month),14603
+2162,2019,10,Middle East,Model 3,3237,3475,90094.08,120,674,327.26,Official (Quarter),12527
+856,2017,11,Asia,Cybertruck,7450,7962,74585.36,120,665,743.14,Interpolated (Month),8833
+868,2023,3,Middle East,Model X,4694,4872,110345.89,82,487,342.9,Official (Quarter),5329
+850,2021,4,Asia,Model 3,11991,12463,58532.24,120,690,1241.07,Official (Quarter),10023
+104,2021,4,Europe,Model 3,11164,11825,84455.13,120,712,1192.32,Official (Quarter),7954
+2447,2015,10,Middle East,Model X,8150,8565,100733.67,60,331,404.65,Interpolated (Month),6783
+1794,2022,5,North America,Cybertruck,10895,11979,76677.04,60,351,573.62,Estimated (Region),7033
+2611,2023,7,Europe,Model X,6115,6844,94154.58,120,695,637.49,Official (Quarter),7242
+1987,2018,10,Middle East,Model Y,12344,12656,109776.0,82,451,835.07,Official (Quarter),9141
+1256,2017,6,Asia,Model Y,13304,14480,92930.42,120,698,1392.93,Official (Quarter),5904
+1434,2019,10,North America,Model Y,10447,11167,84927.76,100,553,866.58,Interpolated (Month),11213
+2416,2018,9,North America,Model S,8643,9882,76367.35,60,340,440.79,Official (Quarter),3749
+664,2016,4,North America,Model Y,16513,16988,72636.01,75,420,1040.32,Interpolated (Month),7259
+1125,2023,7,Middle East,Model Y,8716,9361,53865.23,82,490,640.63,Official (Quarter),4542
+1146,2021,3,Asia,Model S,16317,17422,109971.1,60,358,876.22,Estimated (Region),7031
+1384,2019,9,Middle East,Model Y,13821,15702,56119.18,75,447,926.7,Interpolated (Month),12906
+622,2017,8,North America,Model 3,13697,14389,59998.94,82,479,984.13,Estimated (Region),5475
+2489,2020,5,North America,Model X,7373,8436,106508.32,120,687,759.79,Interpolated (Month),5683
+970,2016,8,Asia,Cybertruck,8832,10136,104040.87,75,413,547.14,Interpolated (Month),3782
+1249,2017,7,Asia,Cybertruck,12222,12642,58228.59,82,457,837.82,Interpolated (Month),3023
+1060,2015,11,Europe,Cybertruck,7876,7944,117837.18,100,594,701.75,Interpolated (Month),14133
+2007,2016,1,Europe,Cybertruck,10790,10922,54224.65,120,674,1090.87,Official (Quarter),4914
+1621,2018,8,North America,Cybertruck,8810,9800,113912.9,75,433,572.21,Estimated (Region),5169
+210,2021,5,North America,Cybertruck,2210,2460,68015.58,100,584,193.6,Interpolated (Month),3476
+930,2025,10,Middle East,Model S,8179,8289,70058.32,75,448,549.63,Official (Quarter),9702
+1554,2022,2,Asia,Model S,6882,7233,83359.76,120,677,698.87,Interpolated (Month),9179
+1911,2024,1,North America,Model Y,15314,16116,114520.92,75,447,1026.8,Official (Quarter),5902
+1477,2018,3,Europe,Model Y,4731,5359,112698.3,60,338,239.86,Estimated (Region),5759
+826,2022,3,Middle East,Model X,11191,12382,116541.44,120,674,1131.41,Estimated (Region),11953
+2442,2015,10,Europe,Model 3,20240,21254,103963.85,75,416,1262.98,Estimated (Region),3901
+1753,2021,2,North America,Cybertruck,10720,11921,71819.23,82,463,744.5,Official (Quarter),13054
+980,2017,10,Middle East,Model X,10725,12116,60844.77,60,332,534.1,Estimated (Region),8814
+1920,2022,2,Middle East,Cybertruck,6205,6305,109228.34,82,481,447.69,Official (Quarter),5540
+455,2021,11,Asia,Model S,4017,4053,72785.23,82,456,274.76,Interpolated (Month),11519
+321,2017,6,Middle East,Cybertruck,12970,13984,54792.11,100,568,1105.04,Official (Quarter),14049
+1713,2021,9,Middle East,Cybertruck,11865,12433,67654.17,120,717,1276.08,Estimated (Region),14079
+1927,2018,7,Europe,Model X,9807,11267,66846.94,120,712,1047.39,Official (Quarter),12967
+340,2023,6,Europe,Cybertruck,14025,15507,56943.62,120,714,1502.08,Interpolated (Month),5580
+2307,2019,8,Middle East,Model S,11957,12248,117182.2,82,485,869.87,Estimated (Region),13365
+457,2016,6,Europe,Model X,13711,15380,95953.5,82,456,937.83,Estimated (Region),7059
+2443,2019,10,Europe,Model X,10136,11624,85130.87,100,572,869.67,Estimated (Region),12041
+1335,2021,9,North America,Model 3,9843,10987,89947.82,75,441,651.11,Estimated (Region),4798
+1649,2022,8,Asia,Model Y,10678,11302,101912.21,60,341,546.18,Estimated (Region),6963
+1653,2025,7,Europe,Model X,15335,16038,82171.09,60,335,770.58,Estimated (Region),10636
+1265,2023,5,Europe,Model X,13362,14234,78132.91,120,694,1390.98,Estimated (Region),10000
+1617,2023,10,Europe,Model 3,8195,8564,87177.66,75,427,524.89,Official (Quarter),6286
+256,2023,10,North America,Model Y,12266,12573,100235.19,82,481,884.99,Official (Quarter),4067
+2055,2018,7,Asia,Model X,6137,6259,61111.57,75,448,412.41,Estimated (Region),13555
+172,2016,12,North America,Model 3,8519,8888,113005.82,60,333,425.52,Interpolated (Month),14471
+1360,2021,7,Europe,Model 3,10432,11531,105489.24,82,476,744.84,Official (Quarter),4831
+2091,2019,4,Middle East,Model S,9594,10233,90358.15,60,359,516.64,Estimated (Region),5899
+2171,2018,9,North America,Cybertruck,10028,10999,85739.93,60,333,500.9,Estimated (Region),6744
+722,2024,8,Middle East,Cybertruck,7408,8406,90693.75,100,567,630.05,Estimated (Region),5791
+497,2020,12,Europe,Model S,14367,16245,81271.77,100,567,1221.91,Estimated (Region),4658
+1158,2025,6,Europe,Model Y,6182,6357,114855.04,75,413,382.97,Official (Quarter),8550
+633,2025,10,Europe,Cybertruck,16403,17990,89023.22,100,582,1431.98,Estimated (Region),10354
+841,2016,11,North America,Cybertruck,9155,10186,54970.54,82,454,623.46,Interpolated (Month),7257
+1965,2020,7,Asia,Model 3,4471,4759,82949.42,100,557,373.55,Interpolated (Month),3372
+677,2019,7,North America,Model S,10429,10716,57395.52,82,484,757.15,Official (Quarter),9945
+1366,2021,5,Asia,Model Y,9545,9727,62297.06,120,717,1026.56,Official (Quarter),11318
+251,2022,10,Europe,Cybertruck,11173,11362,107979.15,82,461,772.61,Estimated (Region),12327
+280,2015,6,Asia,Model 3,6240,6864,62062.39,120,671,628.06,Estimated (Region),3490
+89,2019,8,North America,Model S,11480,11915,54709.92,82,461,793.84,Interpolated (Month),13946
+1124,2020,1,Asia,Model 3,12934,14720,117789.34,100,577,1119.44,Interpolated (Month),8498
+2183,2020,9,Europe,Model S,3028,3350,53637.63,82,486,220.74,Official (Quarter),8499
+2232,2017,2,Middle East,Model S,12872,14359,106500.89,82,455,878.51,Estimated (Region),6186
+1499,2023,7,North America,Model Y,16150,16704,86864.96,60,343,830.92,Official (Quarter),9955
+1629,2025,5,Europe,Model 3,7889,8089,57441.41,60,357,422.46,Interpolated (Month),14971
+1020,2018,4,Europe,Model S,17645,20199,53529.17,100,594,1572.17,Official (Quarter),9922
+748,2017,5,Middle East,Model S,11634,12912,78316.92,60,332,579.37,Official (Quarter),12405
+1545,2021,1,Asia,Cybertruck,19968,20943,118851.81,60,350,1048.32,Interpolated (Month),3526
+1535,2016,1,North America,Model Y,5366,5628,86239.82,60,332,267.23,Interpolated (Month),7207
+1028,2023,9,North America,Model S,4688,5323,63867.29,75,413,290.42,Estimated (Region),3243
+1111,2021,8,Europe,Model X,9226,10565,102709.03,120,708,979.8,Interpolated (Month),3393
+493,2016,1,Middle East,Model X,9845,11192,64746.35,100,581,857.99,Estimated (Region),10578
+2017,2016,11,Europe,Model Y,5425,5434,79542.4,60,338,275.05,Official (Quarter),8832
+2214,2021,10,Asia,Model S,3157,3343,77143.5,100,564,267.08,Official (Quarter),6222
+1848,2023,4,Europe,Model X,18742,20023,74109.96,100,584,1641.8,Estimated (Region),12114
+122,2023,5,North America,Model Y,14130,16020,52154.82,75,440,932.58,Official (Quarter),12105
+486,2018,11,North America,Model Y,2125,2299,56121.26,82,466,148.54,Interpolated (Month),7962
