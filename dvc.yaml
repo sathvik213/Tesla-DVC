@@ -7,3 +7,12 @@ stages:
     # - data_ingestion.test_size
     outs:
     - data/split
+
+  data_preprocessing:
+    cmd: uv run src/data_preprocessing.py
+    deps:
+    - src/data_preprocessing.py
+    # params:
+    # - data_ingestion.test_size
+    outs:
+    - data/processed

@@ -12,14 +12,16 @@
 8. I will be now focusing on logs and making data_ingestion.py betterly
 
 ----so far structured the project so that i can easily add the 
-9. after point 8 i will focus on DVC ,testing out on marimo notebook to plan for better steps 
+9. after point 8 i will focus on DVC ,testing out on jupyter notebook to plan for better steps 
 10. worked on ingestion module and rectifying some errors now, tried doing the removeing the try and except to dwell deep into errors, also done ruff checks
-
+11. worked on data_preprocessing.py , editing this based on some work done in analysis.ipynb notebook (adding drop duplicates, drop unecessary cols and graph analyssi)
 
 
 ** use pytest and pytest.ini for testing along with CI pipelines using github actions
 ** try to dockerise the model here
 ** revisit docker notes
+
+
 -- DVC notes
 1. We used dvc get above to show how DVC can turn any Git repo into a "data registry". dvc get can download any file or directory tracked in a DVC repository.
 2. 'dvc add data/data.xml' adds data to tracking

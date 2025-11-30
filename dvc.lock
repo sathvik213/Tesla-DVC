@@ -1,0 +1,28 @@
+schema: '2.0'
+stages:
+  data_ingestion:
+    cmd: uv run src/data_ingestion.py
+    deps:
+    - path: src/data_ingestion.py
+      hash: md5
+      md5: 944170e9a7b732730426881470054ca0
+      size: 4916
+    outs:
+    - path: data/split
+      hash: md5
+      md5: 17c119c450362db5514a2e2d7e619d83.dir
+      size: 239760
+      nfiles: 2
+  data_preprocessing:
+    cmd: uv run src/data_preprocessing.py
+    deps:
+    - path: src/data_preprocessing.py
+      hash: md5
+      md5: 8c303522e6b18681790e0890cdc52d2c
+      size: 3502
+    outs:
+    - path: data/processed
+      hash: md5
+      md5: 208bd09c1f2499d014c758a830f81d8d.dir
+      size: 239780
+      nfiles: 2
