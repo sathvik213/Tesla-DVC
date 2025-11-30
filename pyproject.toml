@@ -10,6 +10,7 @@ dependencies = [
     "fastapi>=0.122.0",
     "mlflow>=3.6.0",
     "pandas>=2.3.3",
+    "pytest>=9.0.1",
     "ruff>=0.14.6",
     "scikit-learn>=1.7.2",
     "uv>=0.9.13",
